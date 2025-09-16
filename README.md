@@ -27,7 +27,7 @@ This is the marketing website for WebnovelSync, built to promote the Chrome exte
 - **Frontend**: React, JavaScript ES6+
 - **Styling**: Tailwind CSS
 - **Build Tool**: Vite
-- **Deployment**: Netlify
+- **Deployment**: Vercel
 - **Icons**: Lucide React
 
 ## Project Structure
